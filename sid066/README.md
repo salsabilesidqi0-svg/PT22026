@@ -3,7 +3,7 @@
 A machine learning project that reads an SMS message and decides if it is **spam** or **not spam (ham)**. It includes a training script that compares three models and a small web app built with Gradio.
 
 **Author:** Salsabile
-**Course:** Professional Training (intermediate level), midterm individual project
+**Course:** Professionaleeee Training (intermediate level), midterm individual project
 
 ## Dataset
 
